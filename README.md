@@ -3,7 +3,7 @@
 
 ## Um pouco sobre mim
 
-Tenho 23 anos, sou desenvolvedor web desde os 19 anos. 
+Tenho 24 anos, sou desenvolvedor web desde os 19 anos. 
 Quando iniciei os estudos nessa área me apaixonei logo de cara, busco constante desenvolvimento e crescimento com as mais diversas tecnologias.
 Espero que possamos nos ajudar e crescer juntos.
 
